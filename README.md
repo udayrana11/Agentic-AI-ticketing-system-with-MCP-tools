@@ -17,11 +17,11 @@ Designed and implemented an **AI-powered ticketing system** for IT support, auto
 - Polling and webhook mechanisms for event-driven and periodic ticket monitoring.
 - SLA compliance tracking and automated escalation.
 
-## STAR Interview Example
+## Summary
 
-**Situation:** Our IT team struggled with high ticket volumes, delayed responses, and SLA compliance issues.  
+**Use case:** IT team struggled with high ticket volumes, delayed responses, and SLA compliance issues.  
 
-**Task:** Design an AI system to automate ticket triaging, provide instant FAQ responses, escalate high-priority tickets, and include human oversight.  
+**Solution:** Design an AI system to automate ticket triaging, provide instant FAQ responses, escalate high-priority tickets, and include human oversight.  
 
 **Action:** Built an agentic AI ticketing system with an LLM orchestrator routing queries to multiple nodes:
 - Classifier for ticket priority
@@ -30,7 +30,7 @@ Designed and implemented an **AI-powered ticketing system** for IT support, auto
 - Human-in-the-loop escalation node  
 Integrated MCP tools for ServiceNow API and other communication channels. Implemented session caching for cost efficiency.
 
-**Result:** Reduced manual ticket handling by **60%**, ensured SLA compliance, and provided full auditability via global memory logging.
+**outcome:** Reduced manual ticket handling by **60%**, ensured SLA compliance, and provided full auditability via global memory logging.
 
 ## Tech Stack
 - **LLM:** OpenAI GPT-4 / Groq MiniLLM  
