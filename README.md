@@ -8,7 +8,7 @@
 <img width="446" height="280" alt="Screenshot 2025-08-20 180216" src="https://github.com/user-attachments/assets/573648d9-b7a7-4ffe-8e73-403bae1bf108" />
 
 ## Project Overview
-Designed and implemented an **AI-powered ticketing system** for IT support, automating ticket triaging, escalation, and human oversight while integrating with enterprise tools.
+Designed an **AI-powered ticketing system** for IT support, automating ticket triaging, escalation, and human oversight while integrating with enterprise tools.
 
 ## Key Features
 - **LLM Orchestrator:** Routes user queries to specialized nodes based on priority and task type.
