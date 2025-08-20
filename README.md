@@ -1,9 +1,6 @@
 # Agentic AI Ticketing System
 
-<img width="1307" height="860" alt="Untitled-2025-08-20-1644" src="https://github.com/user-attachments/assets/265d6827-e457-46cb-89e1-656270ba59f3" /><img width="1307" height="860" alt="Untitled-2025-08-20-1644" src="https://github.com/user-attachments/assets/55b88b11-8193-4ec8-ac04-3c8f6e993668" />
-
-
-
+<img width="1307" height="860" alt="Untitled-2025-08-20-1644" src="https://github.com/user-attachments/assets/265d6827-e457-46cb-89e1-656270ba59f3" />
 
 ## Project Overview
 Designed and implemented an **AI-powered ticketing system** for IT support, automating ticket triaging, escalation, and human oversight while integrating with enterprise tools.
